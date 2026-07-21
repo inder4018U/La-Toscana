@@ -113,7 +113,7 @@ Create an admin account using the records included in `italian.sql`, or use the 
 
 ## Screenshots
 
-You can add screenshots here.
+Will add later
 
 - Home Page
 - Menu
